@@ -19,15 +19,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/lm/cover.png" />
     </item>
     
-    <item>
-      <title>L.M. Personnel Services</title>
-      <link>//localhost:1313/works/lm/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/works/lm/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/works/lm/cover.png" />
-    </item>
-    
   </channel>
 </rss>

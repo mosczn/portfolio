@@ -1,7 +1,6 @@
 [[main]]
-name = "Works"
-pageRef = "works"
-identifier = "qtA8K4EIht"
+name = "Projects"
+pageRef = "projects"
 weight = 10
 
 [[main]]

@@ -12,8 +12,7 @@ draft: false
 # Nursing Studies Management Platform
 
 {{< lead >}}
-## Summary ##
-My goal was to modernize the administration of nursing studies by transitioning from traditional paper-based processes to a dynamic Learning Management System (LMS) platform. This project involved research, design, prototyping, and iterative development to create a more efficient and accessible educational ecosystem.**
+My goal was to modernize the administration of nursing studies by transitioning from traditional paper-based processes to a dynamic Learning Management System (LMS) platform. This project involved research, design, prototyping, and iterative development to create a more efficient and accessible educational ecosystem.
 {{< /lead >}}
 
 

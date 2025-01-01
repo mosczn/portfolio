@@ -9,17 +9,56 @@ date: 2022-09-04
 draft: false
 ---
 
-## Lorem ipsum dolor sit amet
-A management system that aims to create an efficient infrastructure for managing processes within the company's ongoing work.
+## L.M. Personnel Services: Transforming Recruitment Management  
 
-## Nunc non leo non magna
-Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.
+{{< lead >}}
+I designed a unified recruitment management platform for L.M. Personnel Services, addressing inefficiencies in their outdated system. The solution integrated key features such as dashboards, messaging, notifications, user management, and onboarding kits. By introducing a modern dark mode design and streamlining workflows, the platform significantly enhanced recruitment efficiency and improved communication across branches.
+{{< /lead >}}
 
-## Quisque ultricies
-Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.
 
-## Etiam sollicitudin
-Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.
+| Date   | Client     | Role   |
+| --------- | -------- | ------ |
+| 2023-Present | L.M. Personnel Services | UX/UI Design |
 
-## Proin tempor lorem
-Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.
+
+<br></br>
+
+![](/pic1.png "Systematic Dashboard")
+
+### **Overview**  
+L.M. Personnel Services is a leading human resources company focused on connecting the right candidates to the right positions. However, their recruitment tracking system was outdated, fragmented, and inefficient. My goal was to design a unified platform that streamlined the recruitment process and enhanced user experience for both company staff and candidates.  
+
+### **The Challenge**  
+The company's existing tools were siloed, which made it difficult to efficiently manage the recruitment pipeline. Key issues included:  
+- Lack of a unified platform for tracking candidates.  
+- Cumbersome user interfaces for managing worker communication.  
+- Inefficient onboarding processes.  
+- A need for modern, visually appealing dark mode designs.  
+
+### **The Solution**  
+I designed a centralized recruitment management platform that integrates all key functions into one cohesive system:  
+- **Dashboard**: A central hub with real-time updates on recruitment activities.  
+- **Messages**: Communication tools for company staff and branch workers.  
+- **Notifications**: Timely updates for both recruiters and candidates.  
+- **Workers List**: A comprehensive view of all current and prospective employees.  
+- **User Management**: Tools for controlling access and permissions across the system.  
+- **Kit Management**: A dedicated feature to streamline onboarding processes with pre-prepared kits for new recruits.  
+
+![](/pic2.png "Uploading files")
+
+![](/pic3.png "Messages")
+
+![](/pic4.png "Notifications")
+
+### **Design Process**  
+1. **Research**: Collaborated with the L.M. Personnel Services team to understand their workflows and user needs.  
+2. **Prototyping**: Created low-fidelity and high-fidelity prototypes, emphasizing usability and functionality.  
+3. **Dark Mode Design**: Implemented a sleek and modern dark mode interface to align with client preferences.  
+4. **Testing and Iteration**: Conducted user testing with company staff and made iterative improvements based on feedback.  
+
+### **The Result**  
+The newly designed system revolutionized recruitment management at L.M. Personnel Services:  
+- Streamlined workflows for tracking and onboarding recruits.  
+- Improved communication across branches.  
+- Enhanced recruiter efficiency, resulting in faster candidate placements.  
+- A visually appealing interface that modernized the company’s digital presence.  
