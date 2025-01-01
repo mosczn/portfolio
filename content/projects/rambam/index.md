@@ -21,6 +21,9 @@ My goal was to modernize the administration of nursing studies by transitioning 
 | 2023 | Rambam Medical Center | UX/UI Design |
 
 
+![](/pic1.png "Students and Candidates")
+
+
 ## Initial Research and Analysis
 
 ### Understanding the Problem
@@ -71,5 +74,3 @@ My goal was to modernize the administration of nursing studies by transitioning 
 ## Conclusion
 
 The "Advanced Training in Nursing" project exemplifies the importance of user-centered design and iterative development in creating effective educational solutions. By leading this initiative, the project not only modernized the institution's administrative processes but also set a new standard for efficiency and usability in educational management systems.
-
-![](/pic1.png "LMS Dashboard")
