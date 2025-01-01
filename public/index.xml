@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>L.M. Personnel Services</title>
+      <link>//localhost:1313/works/lm/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/works/lm/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/works/lm/cover.png" />
+    </item>
+    
+    <item>
       <title>HolistiCyber</title>
       <link>//localhost:1313/projects/holisticyber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +40,16 @@
     </item>
     
     <item>
+      <title>HolistiCyber</title>
+      <link>//localhost:1313/works/holisticyber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/works/holisticyber/</guid>
+      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/works/holisticyber/cover.png" />
+    </item>
+    
+    <item>
       <title>Rambam Advanced Training in Nursing</title>
       <link>//localhost:1313/projects/rambam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,6 +57,16 @@
       <guid>//localhost:1313/projects/rambam/</guid>
       <description>Modernizing Rambam&amp;rsquo;s Administration of Nursing Studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/rambam/cover.png" />
+    </item>
+    
+    <item>
+      <title>Rambam Advanced Training in Nursing</title>
+      <link>//localhost:1313/works/rambam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/works/rambam/</guid>
+      <description>Modernizing Rambam&amp;rsquo;s Administration of Nursing Studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/works/rambam/cover.png" />
     </item>
     
   </channel>
