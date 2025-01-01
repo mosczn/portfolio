@@ -5,7 +5,6 @@ categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""
 #showSummary: true
-date: false
 draft: false
 ---
 
