@@ -22,7 +22,7 @@ I worked closely with cybersecurity professionals to understand their workflows,
 
 <br></br>
 
-![](/pic1.png "Sage Dashboard")
+![](/pic1.jpeg "Sage Dashboard")
 
 ## Challenge  
 Companies face an ever-growing number of sophisticated cyber threats. Cybersecurity leaders (CISOs) struggle to manage these threats effectively due to inconsistent task naming, limited visibility into system activity, and a lack of tools for budgeting security expenses.  
