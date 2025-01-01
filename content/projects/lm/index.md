@@ -1,11 +1,11 @@
 ---
 title: "L.M. Personnel Services"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
-categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+summary: "A unified recruitment management platform."
+categories: ["","",]
+tags: ["","",""]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
+date: false
 draft: false
 ---
 
