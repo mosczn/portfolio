@@ -1,6 +1,6 @@
 ---
 title: "Rambam Advanced Training in Nursing"
-summary: "Modernizing Rambam's Administration of Nursing Studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students' admission."
+summary: "Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students' admission."
 categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""
@@ -74,3 +74,7 @@ My goal was to modernize the administration of nursing studies by transitioning 
 ## Conclusion
 
 The "Advanced Training in Nursing" project exemplifies the importance of user-centered design and iterative development in creating effective educational solutions. By leading this initiative, the project not only modernized the institution's administrative processes but also set a new standard for efficiency and usability in educational management systems.
+
+<br></br>
+
+*Interested in tackling complex challenges together? [Let’s connect.](mailto:mos.czn@gmail.com)*  

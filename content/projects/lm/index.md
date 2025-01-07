@@ -9,7 +9,7 @@ date: false
 draft: false
 ---
 
-## L.M. Personnel Services: Transforming Recruitment Management  
+# Transforming Recruitment Management  
 
 {{< lead >}}
 I designed a unified recruitment management platform for L.M. Personnel Services, addressing inefficiencies in their outdated system. The solution integrated key features such as dashboards, messaging, notifications, user management, and onboarding kits. By introducing a modern dark mode design and streamlining workflows, the platform significantly enhanced recruitment efficiency and improved communication across branches.
@@ -50,6 +50,7 @@ I designed a centralized recruitment management platform that integrates all key
 
 ![](/pic4.png "Notifications")
 
+
 ### **Design Process**  
 1. **Research**: Collaborated with the L.M. Personnel Services team to understand their workflows and user needs.  
 2. **Prototyping**: Created low-fidelity and high-fidelity prototypes, emphasizing usability and functionality.  
@@ -61,4 +62,8 @@ The newly designed system revolutionized recruitment management at L.M. Personne
 - Streamlined workflows for tracking and onboarding recruits.  
 - Improved communication across branches.  
 - Enhanced recruiter efficiency, resulting in faster candidate placements.  
-- A visually appealing interface that modernized the company’s digital presence.  
+- A visually appealing interface that modernized the company’s digital presence.
+
+<br></br>
+
+*Interested in tackling complex challenges together? [Let’s connect.](mailto:mos.czn@gmail.com)*  

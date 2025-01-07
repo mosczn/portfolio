@@ -42,7 +42,9 @@ I collaborated with cybersecurity professionals to design a system tailored to c
 - Designed a **Side Updates Panel** for real-time visibility into system activity.  
 - Developed a **ChatGPT-Powered Search Tool** to retrieve relevant results despite inconsistent task naming.  
 - Built an **Expense Calculator** to estimate and manage the costs of cybersecurity initiatives.  
-- Iterated prototypes, ensuring they addressed real-world challenges faced by companies.  
+- Iterated prototypes, ensuring they addressed real-world challenges faced by companies.
+
+{{< carousel images="cr/*" interval="2500" >}}
 
 ---
 
@@ -76,4 +78,4 @@ This project emphasized the importance of designing tools that adapt to the comp
 
 <br></br>
 
-*Interested in tackling complex challenges together? [Let’s connect.](mailto:moshecezana@gmail.com)*  
+*Interested in tackling complex challenges together? [Let’s connect.](mailto:mos.czn@gmail.com)*  
