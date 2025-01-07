@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.38e5a69809644d9dbf81d13c01a4b3720191638524a535a06b6ef20892224739a56b170e36d0d2bdbeb113973258adf743b0c43745c70a64db80f6f9084e82e4.css"
-    integrity="sha512-OOWmmAlkTZ2/gdE8AaSzcgGRY4UkpTWga27yCJIiRzmlaxcONtDSvb6xE5cyWK33Q7DEN0XHCmTbgPb5CE6C5A==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.18b9396799fa490c3dda0bfc714c0ff334c24ed067d54eaefd3f7ab0a72eaa32370b77b6176fd499130ba15451e5123643f380fcf3a4f8b0561b828e83c3d004.css"
+    integrity="sha512-GLk5Z5n6SQw92gv8cUwP8zTCTtBn1U6u/T96sKcuqjI3C3e2F2/UmRMLoVRR5RI2Q/OA/POk&#43;LBWG4KOg8PQBA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -105,7 +105,7 @@
     "keywords": ["","",""],
     
     "mainEntityOfPage": "true",
-    "wordCount": "363"
+    "wordCount": "532"
   }]
   </script>
 
@@ -459,7 +459,105 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#the-challenge"><strong>The Challenge</strong></a></li>
+        <li><a href="#my-role"><strong>My Role</strong></a></li>
+        <li><a href="#the-process"><strong>The Process</strong></a>
+          <ul>
+            <li><a href="#research-and-analysis"><strong>Research and Analysis</strong></a></li>
+            <li><a href="#conceptualization"><strong>Conceptualization</strong></a></li>
+            <li><a href="#wireframing-and-prototyping"><strong>Wireframing and Prototyping</strong></a></li>
+            <li><a href="#dark-mode-design"><strong>Dark Mode Design</strong></a></li>
+            <li><a href="#testing-and-iteration"><strong>Testing and Iteration</strong></a></li>
+          </ul>
+        </li>
+        <li><a href="#the-solution"><strong>The Solution</strong></a></li>
+        <li><a href="#the-result"><strong>The Result</strong></a></li>
+        <li><a href="#reflection"><strong>Reflection</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#the-challenge"><strong>The Challenge</strong></a></li>
+        <li><a href="#my-role"><strong>My Role</strong></a></li>
+        <li><a href="#the-process"><strong>The Process</strong></a>
+          <ul>
+            <li><a href="#research-and-analysis"><strong>Research and Analysis</strong></a></li>
+            <li><a href="#conceptualization"><strong>Conceptualization</strong></a></li>
+            <li><a href="#wireframing-and-prototyping"><strong>Wireframing and Prototyping</strong></a></li>
+            <li><a href="#dark-mode-design"><strong>Dark Mode Design</strong></a></li>
+            <li><a href="#testing-and-iteration"><strong>Testing and Iteration</strong></a></li>
+          </ul>
+        </li>
+        <li><a href="#the-solution"><strong>The Solution</strong></a></li>
+        <li><a href="#the-result"><strong>The Result</strong></a></li>
+        <li><a href="#reflection"><strong>Reflection</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -507,97 +605,99 @@
 </p>
 
 
-<h3 class="relative group"><strong>Overview</strong> 
-    <div id="overview" class="anchor"></div>
-    
-</h3>
-<p>L.M. Personnel Services is a leading human resources company focused on connecting the right candidates to the right positions. However, their recruitment tracking system was outdated, fragmented, and inefficient. My goal was to design a unified platform that streamlined the recruitment process and enhanced user experience for both company staff and candidates.</p>
-
-
 <h3 class="relative group"><strong>The Challenge</strong> 
     <div id="the-challenge" class="anchor"></div>
     
 </h3>
-<p>The company&rsquo;s existing tools were siloed, which made it difficult to efficiently manage the recruitment pipeline. Key issues included:</p>
-<ul>
-<li>Lack of a unified platform for tracking candidates.</li>
-<li>Cumbersome user interfaces for managing worker communication.</li>
-<li>Inefficient onboarding processes.</li>
-<li>A need for modern, visually appealing dark mode designs.</li>
-</ul>
+<p>L.M. Personnel Services, a leading human resources company, faced significant challenges in their recruitment processes due to an outdated and fragmented system. The lack of a unified platform resulted in inefficiencies in tracking candidates, communicating with staff, and onboarding new recruits. Key pain points included cumbersome user interfaces, manual processes, and the need for a modernized digital solution with dark mode design to align with client preferences.</p>
+<p><br></br></p>
+
+
+<h3 class="relative group"><strong>My Role</strong> 
+    <div id="my-role" class="anchor"></div>
+    
+</h3>
+<p>As the UX/UI designer for the project, I was tasked with redesigning and streamlining the recruitment management system. My responsibilities spanned research, wireframing, prototyping, user testing, and delivering a final design that addressed both functional and aesthetic requirements.</p>
+<p><br></br></p>
+
+
+<h3 class="relative group"><strong>The Process</strong> 
+    <div id="the-process" class="anchor"></div>
+    
+</h3>
+
+
+<h4 class="relative group"><strong>Research and Analysis</strong> 
+    <div id="research-and-analysis" class="anchor"></div>
+    
+</h4>
+<p>The project began with in-depth discussions with L.M. Personnel Services staff to understand their workflows and challenges. This research phase highlighted inefficiencies in tracking and communication and revealed opportunities to streamline the recruitment pipeline through a centralized platform.</p>
+
+
+<h4 class="relative group"><strong>Conceptualization</strong> 
+    <div id="conceptualization" class="anchor"></div>
+    
+</h4>
+<p>The design concept centered on creating a unified platform that integrated all recruitment-related functionalities. Features such as candidate tracking, user management, and onboarding tools were identified as priorities to enhance efficiency and user experience.</p>
+
+
+<h4 class="relative group"><strong>Wireframing and Prototyping</strong> 
+    <div id="wireframing-and-prototyping" class="anchor"></div>
+    
+</h4>
+<p>Low-fidelity wireframes were developed to outline the platform&rsquo;s structure, followed by high-fidelity prototypes that focused on usability and functionality. Prototypes were iteratively tested with users to ensure alignment with their needs and preferences.</p>
+
+
+<h4 class="relative group"><strong>Dark Mode Design</strong> 
+    <div id="dark-mode-design" class="anchor"></div>
+    
+</h4>
+<p>Given the client’s request, a sleek dark mode design was implemented, providing a modern and visually appealing user interface while maintaining functionality and accessibility.</p>
+
+
+<h4 class="relative group"><strong>Testing and Iteration</strong> 
+    <div id="testing-and-iteration" class="anchor"></div>
+    
+</h4>
+<p>The platform underwent multiple rounds of user testing, with each iteration incorporating feedback to refine usability, navigation, and overall design consistency.</p>
+<p><br></br></p>
 
 
 <h3 class="relative group"><strong>The Solution</strong> 
     <div id="the-solution" class="anchor"></div>
     
 </h3>
-<p>I designed a centralized recruitment management platform that integrates all key functions into one cohesive system:</p>
+<p>The final design delivered a centralized recruitment management platform tailored to L.M. Personnel Services&rsquo; needs. Key features included:</p>
 <ul>
-<li><strong>Dashboard</strong>: A central hub with real-time updates on recruitment activities.</li>
-<li><strong>Messages</strong>: Communication tools for company staff and branch workers.</li>
-<li><strong>Notifications</strong>: Timely updates for both recruiters and candidates.</li>
-<li><strong>Workers List</strong>: A comprehensive view of all current and prospective employees.</li>
-<li><strong>User Management</strong>: Tools for controlling access and permissions across the system.</li>
-<li><strong>Kit Management</strong>: A dedicated feature to streamline onboarding processes with pre-prepared kits for new recruits.</li>
+<li><strong>Dashboard</strong>: A real-time overview of recruitment activities.</li>
+<li><strong>Messages</strong>: Communication tools for internal staff and branch workers.</li>
+<li><strong>Notifications</strong>: Timely updates for recruiters and candidates.</li>
+<li><strong>Workers List</strong>: A consolidated view of all employees and candidates.</li>
+<li><strong>User Management</strong>: Access and permission controls for the platform.</li>
+<li><strong>Kit Management</strong>: Tools for streamlining onboarding processes with pre-prepared kits for new hires.</li>
 </ul>
-<p>
-    <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        src="/projects/lm/pic2.png"
-        alt=""
-      />
-      <figcaption>Uploading files</figcaption>
-    </figure>
-</p>
-<p>
-    <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        src="/projects/lm/pic3.png"
-        alt=""
-      />
-      <figcaption>Messages</figcaption>
-    </figure>
-</p>
-<p>
-    <figure>
-      <img
-        class="my-0 rounded-md"
-        loading="lazy"
-        src="/projects/lm/pic4.png"
-        alt=""
-      />
-      <figcaption>Notifications</figcaption>
-    </figure>
-</p>
-
-
-<h3 class="relative group"><strong>Design Process</strong> 
-    <div id="design-process" class="anchor"></div>
-    
-</h3>
-<ol>
-<li><strong>Research</strong>: Collaborated with the L.M. Personnel Services team to understand their workflows and user needs.</li>
-<li><strong>Prototyping</strong>: Created low-fidelity and high-fidelity prototypes, emphasizing usability and functionality.</li>
-<li><strong>Dark Mode Design</strong>: Implemented a sleek and modern dark mode interface to align with client preferences.</li>
-<li><strong>Testing and Iteration</strong>: Conducted user testing with company staff and made iterative improvements based on feedback.</li>
-</ol>
+<p><br></br></p>
 
 
 <h3 class="relative group"><strong>The Result</strong> 
     <div id="the-result" class="anchor"></div>
     
 </h3>
-<p>The newly designed system revolutionized recruitment management at L.M. Personnel Services:</p>
+<p>The redesigned system revolutionized the company’s recruitment processes:</p>
 <ul>
-<li>Streamlined workflows for tracking and onboarding recruits.</li>
-<li>Improved communication across branches.</li>
-<li>Enhanced recruiter efficiency, resulting in faster candidate placements.</li>
-<li>A visually appealing interface that modernized the company’s digital presence.</li>
+<li>Workflows were streamlined, resulting in faster candidate placements.</li>
+<li>Communication across branches improved significantly.</li>
+<li>Onboarding processes became more efficient, reducing manual efforts.</li>
+<li>The visually appealing dark mode design modernized the company’s digital presence and enhanced user satisfaction.</li>
 </ul>
+<p><br></br></p>
+
+
+<h3 class="relative group"><strong>Reflection</strong> 
+    <div id="reflection" class="anchor"></div>
+    
+</h3>
+<p>This project showcased the value of user-centered design in transforming outdated systems. By focusing on the needs of recruiters and staff, I delivered a platform that not only improved operational efficiency but also provided a seamless and engaging user experience. The iterative design process ensured that the final product exceeded expectations, setting a new standard for recruitment management in the organization.</p>
 <p><br></br></p>
 <p><em>Interested in tackling complex challenges together? <a href="mailto:mos.czn@gmail.com">Let’s connect.</a></em></p>
 

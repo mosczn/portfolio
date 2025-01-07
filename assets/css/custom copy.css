@@ -24,28 +24,18 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Open Sans';
 }
 
-.prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)) {
-    color: var(--tw-prose-headings);
-    font-weight: 400;
-    font-size: 1.8em;
-    margin-top: 0;
-    margin-bottom: .8888889em;
-    line-height: 1.5;
-}
-
-.toc ul, .toc li {
-    list-style-type: none;
-    padding-left: 0;
-    padding-right: 0;
-    line-height: 2;
-}
-
 .font-extrabold {
     font-weight: 600;
 }
 font-family; 'Open Sans';}
     {
     justify-content: center;
+    }
+
+    .flex-col {
+    
+    margin: 0 auto;
+      
     }
 
     .fancy { 
@@ -64,10 +54,40 @@ font-family; 'Open Sans';}
     }
 
     h2 {
-        padding: 4% 0% 0% 0%;
+        padding: 4% 0% 2% 0%;
         font-weight: 400;
 
         }
+    
+    .article-content {
+    
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .medium-zoom-image {
+    
+    max-width: 100%;
+    
+    height: auto;
+    
+    }
+    
+    .relative {
+    
+    
+    margin: 0 auto;
+    
+    }
+    
+    .container {
+    
+    max-width: none;
+    
+    width: 100%;
+    
+    }
 
 
     table {
@@ -76,6 +96,28 @@ font-family; 'Open Sans';}
         line-height: 12;
       }
 
+    .prose :where(table):not(:where([class~=not-prose],[class~=not-prose] *)){
+        width: 100%;
+        table-layout: auto;
+        margin-top: 2em;
+        margin-bottom: 2em;
+        font-size: 1em;
+        line-height: normal;
+    }
+
+    .prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)){
+        color: var(--tw-prose-headings);
+        font-weight: 100;
+        font-size: 2.25em;
+        line-height: 1.1111111;
+    }
+
+    .prose :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)){
+        color: var(--tw-prose-headings);
+        font-weight: 400;
+        font-size: 1.5em;
+        line-height: 1.3333333;
+    }
 
     .rounded {
         border-radius: 1rem;
