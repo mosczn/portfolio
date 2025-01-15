@@ -38,11 +38,40 @@ As the lead UX/UI designer, I was responsible for the entire design process, fro
 #### **Research and Analysis**  
 The project began with thorough research to understand the institution's existing workflows and pain points. This involved shadowing staff, analyzing their workspace, and reviewing the documents they relied on daily. The insights gained from this phase emphasized the urgent need for a streamlined, digital-first solution.  
 
+<ins>Pain Points</ins>
+{{< mermaid >}}
+graph TB;
+        A[Time-Consuming Offline Methods]
+        B[Prone to Errors in Documentation]
+        C[Lack of Functionality for Student Management]
+
+    %% Styling for Sticky Notes
+    style A fill:#f9f871,stroke:#333,stroke-width:1
+    style B fill:#f9f871,stroke:#333,stroke-width:1
+    style C fill:#f9f871,stroke:#333,stroke-width:1
+{{< /mermaid >}}
+
+{{< mermaid >}}
+graph TB;
+        D[Communication Inefficiencies]
+        E[Difficulty Accessing Real-Time Data]
+        F[Fragmented Processes and Workflows]
+
+    style D fill:#f9f871,stroke:#333,stroke-width:1
+    style E fill:#f9f871,stroke:#333,stroke-width:1
+    style F fill:#f9f871,stroke:#333,stroke-width:1
+{{< /mermaid >}}
+
 #### **Conceptualization**  
 The initial concept for the LMS focused on simplifying administrative tasks while improving communication and providing real-time data insights. The design aimed to seamlessly integrate features for managing students, classes, and lecturers into a unified platform.  
 
 #### **Wireframing and Prototyping**  
 Using Axure, I developed interactive prototypes that brought the LMS vision to life. These prototypes were built on the system's existing design language to ensure familiarity and ease of adoption. Each prototype served as a valuable tool for exploring user interactions and refining the user experience through iterative feedback.  
+
+{{< carousel images="g1/*" >}}
+_The screens display the wireframe for managing a student's details, documents, and educational courses._
+
+![](/pic6.png "I created a wizard to guide new students through the process of joining a nursing program.")
 
 #### **Design Iterations**  
 The design underwent several iterations based on user testing and feedback. Each iteration focused on enhancing usability, improving search relevance, and increasing user engagement. The iterative approach ensured that the final design was intuitive and catered to the specific needs of the institution’s staff and students.  
@@ -50,7 +79,13 @@ The design underwent several iterations based on user testing and feedback. Each
 <br></br>
 
 ### **The Solution**  
-The final design featured a cutting-edge LMS platform tailored to the institution's requirements. It provided real-time data insights, efficient course and student management tools, and seamless communication channels. By combining user-centered design with robust technological solutions, the system replaced outdated processes with a modernized and cohesive digital platform.  
+The final design featured a cutting-edge LMS platform tailored to the institution's requirements. It provided real-time data insights, efficient course and student management tools, and seamless communication channels. By combining user-centered design with robust technological solutions, the system replaced outdated processes with a modernized and cohesive digital platform.
+
+![](/pic2.png "Managing an individual student's profile.")
+![](/pic3.png "Planning modules for an educational program.")
+![](/pic4.png "During the iteration process, I identified the need to create and send notifications to the students.")
+![](/pic5.png "Facilitating the payroll department in planning tutors' schedules for the month or updating their monthly hours for payment.")
+
 
 <br></br>
 

@@ -49,6 +49,8 @@ font-family; 'Open Sans';}
     }
 
     .fancy { 
+        font-family: Work Sans;
+        font-weight: 500;
         margin-top: 8rem;
         font-size: 4rem;
         line-height: 3.5rem;
@@ -100,4 +102,23 @@ font-family; 'Open Sans';}
     .border {
         border-width: 0px;
 
+    }
+
+    .intro {
+        max-width: 720px;
+        margin: 2rem;
+        text-align: left;
+    }
+
+    .single_hero_background {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+        width: calc(100% + 40px);
+        z-index: -10;
+        margin-left: 0px;
+    }
+
+    .overflow-hidden {
+        overflow: visible;
     }

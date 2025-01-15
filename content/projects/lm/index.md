@@ -26,36 +26,38 @@ I designed a unified recruitment management platform for L.M. Personnel Services
 ![](/pic1.png "Systematic Dashboard")
 
 
-### **The Challenge**  
+## The Challenge
 L.M. Personnel Services, a leading human resources company, faced significant challenges in their recruitment processes due to an outdated and fragmented system. The lack of a unified platform resulted in inefficiencies in tracking candidates, communicating with staff, and onboarding new recruits. Key pain points included cumbersome user interfaces, manual processes, and the need for a modernized digital solution with dark mode design to align with client preferences.  
 
 <br></br>
 
-### **My Role**  
-As the UX/UI designer for the project, I was tasked with redesigning and streamlining the recruitment management system. My responsibilities spanned research, wireframing, prototyping, user testing, and delivering a final design that addressed both functional and aesthetic requirements.  
+## My Role
+As the UX/UI designer for the project, I was tasked with redesigning and streamlining the recruitment management system. My responsibilities spanned research, wireframing, prototyping and delivering a final design that addressed both functional and aesthetic requirements.  
 
 <br></br>
 
-### **The Process**  
+## The Process 
 
-#### **Research and Analysis**  
+### Research and Analysis
 The project began with in-depth discussions with L.M. Personnel Services staff to understand their workflows and challenges. This research phase highlighted inefficiencies in tracking and communication and revealed opportunities to streamline the recruitment pipeline through a centralized platform.  
 
-#### **Conceptualization**  
+### Conceptualization
 The design concept centered on creating a unified platform that integrated all recruitment-related functionalities. Features such as candidate tracking, user management, and onboarding tools were identified as priorities to enhance efficiency and user experience.  
 
-#### **Wireframing and Prototyping**  
+### Wireframing and Prototyping
 Low-fidelity wireframes were developed to outline the platform's structure, followed by high-fidelity prototypes that focused on usability and functionality. Prototypes were iteratively tested with users to ensure alignment with their needs and preferences.  
 
-#### **Dark Mode Design**  
-Given the client’s request, a sleek dark mode design was implemented, providing a modern and visually appealing user interface while maintaining functionality and accessibility.  
+### Dark Mode Design
+Given the client’s request, a sleek dark mode design was implemented, providing a modern and visually appealing user interface while maintaining functionality and accessibility.
 
-#### **Testing and Iteration**  
+{{< carousel images="g1/*" >}}
+
+### Testing and Iteration
 The platform underwent multiple rounds of user testing, with each iteration incorporating feedback to refine usability, navigation, and overall design consistency.  
 
 <br></br>
 
-### **The Solution**  
+## The Solution  
 The final design delivered a centralized recruitment management platform tailored to L.M. Personnel Services' needs. Key features included:  
 - **Dashboard**: A real-time overview of recruitment activities.  
 - **Messages**: Communication tools for internal staff and branch workers.  
@@ -66,7 +68,7 @@ The final design delivered a centralized recruitment management platform tailore
 
 <br></br>
 
-### **The Result**  
+## The Result
 The redesigned system revolutionized the company’s recruitment processes:  
 - Workflows were streamlined, resulting in faster candidate placements.  
 - Communication across branches improved significantly.  
@@ -75,7 +77,7 @@ The redesigned system revolutionized the company’s recruitment processes:
 
 <br></br>
 
-### **Reflection**  
+## Reflection
 This project showcased the value of user-centered design in transforming outdated systems. By focusing on the needs of recruiters and staff, I delivered a platform that not only improved operational efficiency but also provided a seamless and engaging user experience. The iterative design process ensured that the final product exceeded expectations, setting a new standard for recruitment management in the organization.  
 
 
