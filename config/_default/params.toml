@@ -13,7 +13,7 @@ disableImageOptimization = true
 enableSearch = false
 enableCodeCopy = true
 
-mainSections = ["projects"]
+mainSections = ["work"]
 # robots = ""
 
 [header]
@@ -23,18 +23,18 @@ mainSections = ["projects"]
  # showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
-[homepage]
+[homepage]  
   layout = "page" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/cover.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
   showMoreLinkDest = "/works"
-  cardView = true
-  cardViewScreenWidth = false
+  cardView = false
+  cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
   disableImageZoom = true
 
@@ -44,7 +44,7 @@ mainSections = ["projects"]
   #showLikes = true
   showDateUpdated = false
   showAuthor = false
-  showHero = false
+  showHero = true
   heroStyle = "big" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
@@ -56,7 +56,7 @@ mainSections = ["projects"]
   showPagination = true
   invertPagination = false
   showReadingTime = false
-  showTableOfContents = true
+  showTableOfContents = false
   showTaxonomies = false 
   showAuthorsBadges = false 
   showWordCount = false

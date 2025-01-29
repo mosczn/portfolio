@@ -1,13 +1,18 @@
 [[main]]
-name = "Projects"
-pageRef = "projects"
+name = "Works"
+pageRef = "works"
 weight = 10
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 20
 
 [[main]]
 identifier = "linkedin"
 pre = "linkedin"
 url = "https://www.linkedin.com/in/moshe-cezana/"
-weight = 20
+weight = 30
 
 [[footer]]
 none = "none"

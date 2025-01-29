@@ -1,0 +1,128 @@
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 100 200 300 400 500 900;
+    src: url(https://fonts.gstatic.com/s/opensans/v40/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+    @font-face {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400 500 600 700;
+    src: url(https://fonts.gstatic.com/s/worksans/v19/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  
+h1,h2,h3,h4,h5,h6 {
+    font-family: Work Sans;
+    font-weight: 100;
+
+}
+:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6){
+    font-family: 'Open Sans';
+}
+
+.prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    color: var(--tw-prose-headings);
+    font-weight: 400;
+    font-size: 1.8em;
+    margin-top: 0;
+    margin-bottom: .8888889em;
+    line-height: 1.5;
+}
+
+.toc ul, .toc li {
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+    line-height: 2;
+}
+
+.font-extrabold {
+    font-weight: 600;
+}
+font-family; 'Open Sans';}
+    {
+    justify-content: center;
+    }
+
+    .fancy { 
+        font-family: Work Sans;
+        font-weight: 500;
+        margin-top: 8rem;
+        font-size: 4rem;
+        line-height: 3.5rem;
+        color: #3e486b
+
+    }
+
+    .text-4xl {
+        font-weight: 400;
+        font-size: 3rem;
+        line-height: 3.5rem;
+        color: #3e486b
+    }
+
+    h2 {
+        padding: 4% 0% 0% 0%;
+        font-weight: 400;
+
+        }
+
+
+    table {
+        display: table;
+        border-collapse: separate;
+        line-height: 12;
+      }
+
+
+    .rounded {
+        border-radius: 1rem;
+    }
+
+    .shadow-2xl {
+        --tw-shadow: 0 3px 40px -12px rgb(0 0 0 / 12%);
+        --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
+        box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+    }
+
+    .border-neutral-200 {
+        border-width: 0px;
+
+    }
+
+    .border-2 {
+        border-width: 0px;
+
+    }
+
+    .border {
+        border-width: 0px;
+
+    }
+
+    .intro {
+        max-width: 720px;
+        margin: 2rem;
+        text-align: left;
+    }
+
+    .single_hero_background {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+        width: calc(100% + 40px);
+        z-index: -10;
+        margin-left: 0px;
+    }
+
+    .overflow-hidden {
+        overflow: visible;
+    }
+
+    .rounded-md {
+        border-radius: 1rem;
+    }

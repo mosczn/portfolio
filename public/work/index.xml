@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Moshe Cezana</title>
+    <link>//localhost:1313/work/</link>
+    <description>Recent content in Works on Moshe Cezana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Moshe Cezana</copyright>
+    <atom:link href="//localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HolistiCyber</title>
+      <link>//localhost:1313/work/holisticyber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/holisticyber/</guid>
+      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/holisticyber/cover.jpeg" />
+    </item>
+    
+    <item>
+      <title>L.M. Personnel Services</title>
+      <link>//localhost:1313/work/lm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/lm/</guid>
+      <description>Streamlining recruitment processes with a unified platform, integrating dashboards, messaging, onboarding tools, and user management to enhance communication and operational efficiency across branches.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/lm/cover.png" />
+    </item>
+    
+    <item>
+      <title>Rambam Advanced Training in Nursing</title>
+      <link>//localhost:1313/work/rambam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/rambam/</guid>
+      <description>Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/rambam/cover.png" />
+    </item>
+    
+  </channel>
+</rss>
