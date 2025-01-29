@@ -23,17 +23,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/works/holisticyber/</loc>
+    <loc>//localhost:1313/work/holisticyber/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/works/lm/</loc>
+    <loc>//localhost:1313/work/lm/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/works/rambam/</loc>
+    <loc>//localhost:1313/work/rambam/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -48,7 +48,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/works/</loc>
+    <loc>//localhost:1313/work/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

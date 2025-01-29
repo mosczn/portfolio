@@ -1,6 +1,6 @@
 [[main]]
-name = "Works"
-pageRef = "works"
+name = "Work"
+pageRef = "work"
 weight = 10
 
 [[main]]
