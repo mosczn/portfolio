@@ -47,10 +47,8 @@ font-family; 'Open Sans';}
         font-family: Playfair;
         font-weight: 600;
         margin-top: 8rem;
-        margin-bottom: 1rem;
         font-size: 4rem;
-        line-height: 1rem;
-        color: #3e486b
+        line-height: 5rem;
 
     }
 
@@ -58,9 +56,8 @@ font-family; 'Open Sans';}
         font-family: Playfair;
         font-weight: 400;
         margin-bottom: 2rem;
-        font-size: 4rem;
-        line-height: 3rem;
-        color: #3e486b
+        font-size: 3.5rem;
+        line-height: 3.5rem;
 
     }
 
@@ -75,7 +72,6 @@ font-family; 'Open Sans';}
         font-weight: 600;
         font-size: 3rem;
         line-height: 3.5rem;
-        color: #3e486b
     }
 
     h2 {
