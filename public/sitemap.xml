@@ -4,6 +4,37 @@
 
   <url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/work/knesset/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/work/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/work/lm/</loc>
+    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/work/rambam/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/work/holisticyber/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,32 +54,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/work/holisticyber/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/work/lm/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/work/rambam/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/tags/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/work/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

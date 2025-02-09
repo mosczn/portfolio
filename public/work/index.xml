@@ -7,22 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Moshe Cezana</copyright>
-    <atom:link href="//localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>HolistiCyber</title>
-      <link>//localhost:1313/work/holisticyber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Knesset</title>
+      <link>//localhost:1313/work/knesset/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/work/holisticyber/</guid>
-      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/holisticyber/cover.jpeg" />
+      <guid>//localhost:1313/work/knesset/</guid>
+      <description>A unified VOD-like platform designed exclusively for the CEO of the Israeli Knesset, consolidating video feeds, scheduling, and operational insights into a single, intuitive interface.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/knesset/cover.jpg" />
     </item>
     
     <item>
       <title>L.M. Personnel Services</title>
       <link>//localhost:1313/work/lm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/work/lm/</guid>
       <description>Streamlining recruitment processes with a unified platform, integrating dashboards, messaging, onboarding tools, and user management to enhance communication and operational efficiency across branches.</description>
@@ -32,11 +32,21 @@
     <item>
       <title>Rambam Advanced Training in Nursing</title>
       <link>//localhost:1313/work/rambam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/work/rambam/</guid>
       <description>Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/rambam/cover.png" />
+    </item>
+    
+    <item>
+      <title>HolistiCyber</title>
+      <link>//localhost:1313/work/holisticyber/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/work/holisticyber/</guid>
+      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/holisticyber/cover.jpeg" />
     </item>
     
   </channel>

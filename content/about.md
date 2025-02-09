@@ -9,6 +9,7 @@ date: false
 draft: false
 ---
 
+![](/moshe.jpg "")
 
 Hi, I’m Moshe, a Senior UX/UI Designer with over 8 years of experience crafting intuitive and user-friendly digital products. My work spans a variety of industries, including cybersecurity and real estate, where I’ve researched, planned, and designed complex systems, applications, and websites.
 

@@ -10,33 +10,13 @@
     <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>HolistiCyber</title>
-      <link>//localhost:1313/projects/holisticyber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/holisticyber/</guid>
-      <description>Cybersecurity platform that facilitates the creation of comprehensive plans through data-driven defense strategies, promoting clarity across organization&amp;rsquo;s departments.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/holisticyber/cover.jpeg" />
-    </item>
-    
-    <item>
-      <title>L.M. Personnel Services</title>
-      <link>//localhost:1313/projects/lm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/projects/lm/</guid>
-      <description>Streamlining recruitment processes with a unified platform, integrating dashboards, messaging, onboarding tools, and user management to enhance communication and operational efficiency across branches.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/lm/cover.png" />
-    </item>
-    
-    <item>
       <title>Rambam Advanced Training in Nursing</title>
       <link>//localhost:1313/projects/rambam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/projects/rambam/</guid>
       <description>Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students&amp;rsquo; admission.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/rambam/cover.png" />
+      
     </item>
     
   </channel>

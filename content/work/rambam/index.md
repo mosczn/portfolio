@@ -5,7 +5,7 @@ categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""
 #showSummary: true
-date: false
+date: 2025-01-02
 draft: false
 ---
 
@@ -60,6 +60,19 @@ graph TB;
     style D fill:#f9f871,stroke:#333,stroke-width:1
     style E fill:#f9f871,stroke:#333,stroke-width:1
     style F fill:#f9f871,stroke:#333,stroke-width:1
+{{< /mermaid >}}
+
+{{< mermaid >}}
+flowchart TB;
+    A[Visit Website] --> B[Browse Available Courses]
+    B --> C[Select a Course]
+    C --> D[Click Enroll Button]
+    D --> E[Start Enrollment Wizard]
+    E --> F[Answer Preliminary Questions]
+    F --> G[Fill Out Personal Details]
+    G --> H[Upload Required Documents]
+    H --> I[Submit Application]
+    I --> J[Receive Confirmation SMS & Email]
 {{< /mermaid >}}
 
 #### **Conceptualization**  
