@@ -87,10 +87,9 @@ The redesigned dashboard transformed the CEO’s daily workflow by consolidating
 
 ### Calendar
 
-![](/rc_week.jpg "Weekly view of all the rooms' capacity")
-![](/rc_day.jpg "Daily view of all the rooms' capacity")
-![](/1rc_week.jpg "Weekly view of one room")
-![](/1rc_day.jpg "Daily view of one room")
+![](/ca_month.jpg "Calendar view of the week")
+![](/ca_week.jpg "Month view")
+![](/ca_day.jpg "Day view")
 
 <br></br>
 
