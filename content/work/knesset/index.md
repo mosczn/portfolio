@@ -12,7 +12,7 @@ draft: false
 # Delivering real-time insights for strategic governance.
 
 {{< lead >}}
-A VOD-like experience created exclusively for the CEO of the Israeli Knesset. This project reimagined the CEO’s workspace by consolidating multiple screens—previously showing uncontrolled meeting video feeds—into a single, intuitive dashboard that puts control at his fingertips.
+A streamlined experience designed exclusively for the CEO of the Israeli Knesset. This project transformed his workspace by merging multiple screens previously displaying unmanaged meeting video feeds into a single, intuitive dashboard that puts everything he needs at his fingertips.
 {{< /lead >}}
 
 
@@ -26,55 +26,88 @@ A VOD-like experience created exclusively for the CEO of the Israeli Knesset. Th
 
 
 ## The Challenge
-The CEO’s workspace was fragmented, with different software tools, files and screens displaying ongoing meetings, making it difficult to obtain a comprehensive view of the Knesset’s agenda. This disjointed setup hindered efficient decision-making and reduced overall operational insight.
+The CEO’s workspace was cluttered with multiple software tools, files, and screens tracking ongoing meetings, making it hard to get a clear, unified view of the Knesset’s agenda. This lack of cohesion made decision-making less efficient and limited overall operational visibility.
 
 <br></br>
 
 ## My Role
-As the UX/UI Designer, I was responsible for designing the wireframes and visual interfaces for key modules such as the Rooms’ Capacity, Calendar, and Search Results. Working collaboratively with Figma while using Agile methodologies, I ensured that the design addressed both the functional and aesthetic requirements of the CEO’s unique workflow.
+As the UX/UI Designer, I created wireframes and designed visual interfaces for key modules like Room Capacity, Calendar, and Search Results. Using Figma and Agile methodologies, I worked collaboratively to ensure the design was both functional and visually aligned with the CEO’s workflow.
 
 <br></br>
 
 ## The Process
 
-### Research and Analysis
-Initial discussions with the CEO and his team helped uncover critical pain points related to juggling multiple software tools and lacking a unified overview of meetings. A heuristic evaluation and competitive analysis of leading dashboard and calendar products informed the design direction, emphasizing the need for a consolidated, user-friendly interface.
+### Analysis & Discovery
+Through a thorough visual audit of the CEO's existing workflow setup, I identified critical operational inefficiencies:
+- Multiple screens displaying uncontrolled video feeds required constant attention
+- Calendar information spread across various software tools created information gaps
+- No centralized system for accessing historical meeting recordings
+- Search functionality fragmented across multiple platforms
 
-{{< mermaid >}}
-journey
-    title Journey Map
-    section Awareness & Frustration
-      Overwhelmed by fragmented systems: 5: CEO
-      Frustration with switching between multiple tools: 4: CEO
-      Disrupted focus due to uncontrolled video feeds: 5: CEO
-    section Operational Challenges
-      Juggling Excel, Word, and Outlook for meetings: 5: CEO
-      No unified view of the Knesset agenda: 4: CEO
-      Difficulty accessing real-time data: 4: CEO
-    section Impact on Efficiency
-      Delays in decision-making: 5: CEO
-      Inefficient workflows and wasted time: 5: CEO
-      Limited strategic insights: 4: CEO
-{{< /mermaid >}}
+This analysis phase revealed that the CEO's workspace wasn't just inefficient—it was actively hindering strategic oversight of Knesset operations.
 
-### Ideation and Conceptualization
-Inspired by modern calendar products and control panels, brainstorming sessions yielded a concept that merged video control, scheduling, and search functionalities into one cohesive dashboard. The goal was to simplify the user’s journey by centralizing all relevant information into a single interface.
+### Design Approach
+Rather than conducting traditional user research (which wasn't feasible given project constraints), I drew upon:
+- Industry best practices for executive dashboard design
+- Modern VOD interface patterns from leading streaming platforms
+- Enterprise calendar system design principles
+- Established information architecture patterns for complex data systems
 
-### Prototyping and Testing
-Interactive prototypes were developed in Figma, allowing the CEO and his team to experience the design early on. Iterative testing sessions provided valuable feedback, leading to refinements that enhanced usability, navigation, and overall responsiveness of the interface.
+This research-backed approach ensured that despite time constraints, the design would be grounded in proven solutions.
 
-### Implementation
-The final design was handed off to the development team along with comprehensive documentation and a custom design system. This facilitated a smooth transition from design to development and ensured consistency across all elements of the dashboard.
+### Design Process
+The design process focused on three core principles:
+1. **Consolidation**: Bringing multiple data streams into a single, coherent interface
+2. **Control**: Giving the CEO precise control over video feeds and information display
+3. **Clarity**: Ensuring critical information is immediately accessible and actionable
 
-<br></br>
+#### Key Design Decisions
+
+**Rooms' Capacity Module**
+- Implemented both daily and weekly views to support different planning scenarios
+- Used color coding to quickly communicate room availability status
+- Designed consistent layouts between single and multi-room views to reduce cognitive load
+
+**Calendar Interface**
+- Created three distinct views (month, week, day) to balance overview with detail
+- Integrated video feed controls directly into calendar events for immediate access
+- Maintained visual hierarchy to highlight the most important information
+
+**Search Experience**
+- Developed a unified search interface that clearly differentiates between event types
+- Implemented robust filtering options to quickly narrow down results
+- Created distinct visual treatments for events versus meeting videos to speed up recognition
+
+### Prototyping and Iteration
+Without access to user testing, I focused on:
+- Creating high-fidelity prototypes in Figma to validate interaction patterns
+- Building a comprehensive design system to ensure consistency
+- Documenting edge cases and potential usage scenarios
+- Working closely with developers to ensure feasibility of proposed solutions
 
 ## The Solution
-The resulting product is a centralized dashboard that delivers a VOD-like experience for meeting video feeds, combined with a dynamic calendar, advanced search capabilities, and real-time room capacity metrics. This integrated approach empowers the CEO to control his workspace efficiently, providing both an operational overview and the ability to manage video feeds seamlessly.
+The final design delivers a unified dashboard that transforms how the CEO manages and monitors Knesset operations:
+
+1. **Centralized Control**
+   - Single interface for all video feed management
+   - Integrated calendar and scheduling tools
+   - Unified search across all content types
+
+2. **Enhanced Visibility**
+   - Real-time room capacity monitoring
+   - Multi-view calendar options
+   - Comprehensive search functionality
+
+3. **Streamlined Workflow**
+   - Reduced context switching between tools
+   - Faster access to critical information
+   - More efficient meeting management
+
 
 <br></br>
 
 ## The Result
-The redesigned dashboard transformed the CEO’s daily workflow by consolidating multiple applications into a single, intuitive interface. This led to significant improvements in efficiency and decision-making, with enhanced clarity of the Knesset’s agenda and smoother control over ongoing meetings.
+The redesigned dashboard streamlined the CEO’s daily workflow by bringing multiple applications together into one easy-to-use interface. This not only boosted efficiency and decision-making but also provided clearer insights into the Knesset’s agenda and improved management of ongoing meetings.
 
 ### Rooms' Capacity
 
@@ -95,15 +128,8 @@ The redesigned dashboard transformed the CEO’s daily workflow by consolidating
 
 ### Search Results
 
-After extensive research and stakeholder interviews, I discovered that the CEO frequently relies on the search function throughout his day. By iterating through multiple prototypes, I developed this interface that clearly differentiates results—tailoring distinct elements for events and meeting videos to ensure rapid, efficient access to critical information.
-
 ![](/sr.jpg "")
 ![](/sr_m.jpg "")
-
-<br></br>
-
-## Reflection
-This project underscored the impact of user-centered design in high-stakes environments. Key takeaways included the importance of iterative design, cross-functional collaboration, and the power of simplicity in addressing complex, fragmented workflows. The experience reinforced how thoughtful design can transform operational challenges into strategic advantages.
 
 
 <br></br>

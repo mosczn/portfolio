@@ -5,7 +5,6 @@ categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""
 #showSummary: true
-date: false
 draft: false
 ---
 
@@ -17,4 +16,4 @@ Beyond my professional life, I enjoy playing the guitar, exploring creative hobb
 
 Feel free to explore my portfolio and reach out I'd love to connect!
 
-Feel free to check out [My Resume](/moshecezana-cv.pdf)
+Feel free to check out [My Resume](/moshe_cezana.pdf)
