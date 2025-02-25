@@ -1,7 +1,7 @@
 ---
 title: "Knesset"
 date: 2025-01-04
-summary: "A unified VOD-like platform designed exclusively for the CEO of the Israeli Knesset, consolidating video feeds, scheduling, and operational insights into a single, intuitive interface."
+summary: "A tailored dashboard designed for the CEO of the Israeli Knesset, consolidating multiple unmanaged video feeds into a single, intuitive interface for efficient meeting management."
 categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""

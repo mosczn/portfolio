@@ -15,7 +15,7 @@
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/work/knesset/</guid>
-      <description>A unified VOD-like platform designed exclusively for the CEO of the Israeli Knesset, consolidating video feeds, scheduling, and operational insights into a single, intuitive interface.</description>
+      <description>A tailored dashboard designed for the CEO of the Israeli Knesset, consolidating multiple unmanaged video feeds into a single, intuitive interface for efficient meeting management.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/knesset/cover.jpg" />
     </item>
     
@@ -26,7 +26,7 @@
       
       <guid>//localhost:1313/work/lm/</guid>
       <description>Streamlining recruitment processes with a unified platform, integrating dashboards, messaging, onboarding tools, and user management to enhance communication and operational efficiency across branches.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/lm/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/work/lm/cover.jpg" />
     </item>
     
     <item>

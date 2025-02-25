@@ -155,3 +155,10 @@ body * {
     .border-2 {
         border-width: 0px;
         background-color: #f1f3fc;
+    }
+    
+.single_hero_round {
+    max-height: none;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
