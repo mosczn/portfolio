@@ -44,12 +44,40 @@ Through a thorough visual audit of the CEO's existing workflow setup, I identifi
 - No centralized system for accessing historical meeting recordings
 - Search functionality fragmented across multiple platforms
 
-This analysis phase revealed that the CEO's workspace wasn't just inefficient—it was actively hindering strategic oversight of Knesset operations.
+This analysis phase revealed that the CEO's workspace wasn't just inefficient. it was actively hindering strategic oversight of Knesset operations.
+
+{{< mermaid >}}
+graph TD
+
+       subgraph "After Solution"
+        A1[Single Dashboard View] -->|Integrated Interface| A2[Access All Information]
+        A2 -->|Unified Search| A3[Find Relevant Content]
+        A3 -->|Complete Overview| A4[Make Informed Decisions]
+    end
+
+    subgraph "Before Solution"
+        B1[Monitor Multiple Screens] -->|Switch Focus| B2[Check Different Calendars]
+        B2 -->|Context Switch| B3[Search in Multiple Systems]
+        B3 -->|Miss Information| B4[Make Decisions with Incomplete Data]
+        B4 -->|Repeat| B1
+    end
+
+
+    style B1 fill:#ffcccc
+    style B2 fill:#ffcccc
+    style B3 fill:#ffcccc
+    style B4 fill:#ffcccc
+    style A1 fill:#ccffcc
+    style A2 fill:#ccffcc
+    style A3 fill:#ccffcc
+    style A4 fill:#ccffcc
+
+{{< /mermaid >}}
 
 ### Design Approach
 Rather than conducting traditional user research (which wasn't feasible given project constraints), I drew upon:
 - Industry best practices for executive dashboard design
-- Modern VOD interface patterns from leading streaming platforms
+- Modern interface patterns from leading streaming platforms
 - Enterprise calendar system design principles
 - Established information architecture patterns for complex data systems
 

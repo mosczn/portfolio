@@ -62,18 +62,7 @@ graph TB;
     style F fill:#f9f871,stroke:#333,stroke-width:1
 {{< /mermaid >}}
 
-{{< mermaid >}}
-flowchart TB;
-    A[Visit Website] --> B[Browse Available Courses]
-    B --> C[Select a Course]
-    C --> D[Click Enroll Button]
-    D --> E[Start Enrollment Wizard]
-    E --> F[Answer Preliminary Questions]
-    F --> G[Fill Out Personal Details]
-    G --> H[Upload Required Documents]
-    H --> I[Submit Application]
-    I --> J[Receive Confirmation SMS & Email]
-{{< /mermaid >}}
+
 
 #### **Conceptualization**  
 The initial concept for the LMS focused on simplifying administrative tasks while improving communication and providing real-time data insights. The design aimed to seamlessly integrate features for managing students, classes, and lecturers into a unified platform.  

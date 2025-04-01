@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.6c038851673a2ab4eed05d7931bf36c6dd9b961649974690ddfdf13527140eefd6c413953a378e112b7eee05004c2df0aadd6865dc30c3aeae872d4eb2a12da9.css"
-    integrity="sha512-bAOIUWc6KrTu0F15Mb82xt2blhZJl0aQ3f3xNScUDu/WxBOVOjeOESt&#43;7gUATC3wqt1oZdwww66uhy1OsqEtqQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.ab03fb0591d57e4cee35c3d5be439513ea7ee6422035f097451b8f76c381f2859321710f30f577ab333c0aca98948cdfaa6a507585e91e9b5fd33505f8eb8e31.css"
+    integrity="sha512-qwP7BZHVfkzuNcPVvkOVE&#43;p&#43;5kIgNfCXRRuPdsOB8oWTIXEPMPV3qzM8CsqYlIzfqmpQdYXpHptf0zUF&#43;OuOMQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -107,7 +107,7 @@
     "keywords": ["","",""],
     
     "mainEntityOfPage": "true",
-    "wordCount": "625"
+    "wordCount": "705"
   }]
   </script>
 
@@ -122,6 +122,17 @@
 <script src="/lib/jquery/jquery.slim.min.03cb160e3cfdb2667a2e2c80d283bebcf63ff8bbc4b629c9ab2babf6fae1d0c07ad470edae783efa4fabda2ac01c58d60e63b98b3c336be8208460f08f4354f5.js" integrity="sha512-A8sWDjz9smZ6LiyA0oO&#43;vPY/&#43;LvEtinJqyur9vrh0MB61HDtrng&#43;&#43;k&#43;r2irAHFjWDmO5izwza&#43;gghGDwj0NU9Q=="></script>
 
 
+
+  
+  
+  
+  
+  <script
+    defer
+    type="text/javascript"
+    src="/js/mermaid.bundle.7e46ba2c2779d2a2940f85d623867025c484e03c05fc251ca256af5f4459453bc2a9932cde97077a7edf0749ea02d48705b0ca135d9e16c0f03d97eaa96ebcbd.js"
+    integrity="sha512-fka6LCd50qKUD4XWI4ZwJcSE4DwF/CUcolavX0RZRTvCqZMs3pcHen7fB0nqAtSHBbDKE12eFsDwPZfqqW68vQ=="
+  ></script>
 
 
 
@@ -583,7 +594,37 @@
 <li>No centralized system for accessing historical meeting recordings</li>
 <li>Search functionality fragmented across multiple platforms</li>
 </ul>
-<p>This analysis phase revealed that the CEO&rsquo;s workspace wasn&rsquo;t just inefficient—it was actively hindering strategic oversight of Knesset operations.</p>
+<p>This analysis phase revealed that the CEO&rsquo;s workspace wasn&rsquo;t just inefficient. it was actively hindering strategic oversight of Knesset operations.</p>
+<div class="mermaid" align="center">
+  
+graph TD
+
+       subgraph "After Solution"
+        A1[Single Dashboard View] -->|Integrated Interface| A2[Access All Information]
+        A2 -->|Unified Search| A3[Find Relevant Content]
+        A3 -->|Complete Overview| A4[Make Informed Decisions]
+    end
+
+    subgraph "Before Solution"
+        B1[Monitor Multiple Screens] -->|Switch Focus| B2[Check Different Calendars]
+        B2 -->|Context Switch| B3[Search in Multiple Systems]
+        B3 -->|Miss Information| B4[Make Decisions with Incomplete Data]
+        B4 -->|Repeat| B1
+    end
+
+
+    style B1 fill:#ffcccc
+    style B2 fill:#ffcccc
+    style B3 fill:#ffcccc
+    style B4 fill:#ffcccc
+    style A1 fill:#ccffcc
+    style A2 fill:#ccffcc
+    style A3 fill:#ccffcc
+    style A4 fill:#ccffcc
+
+
+</div>
+
 
 
 <h3 class="relative group">Design Approach 
@@ -593,7 +634,7 @@
 <p>Rather than conducting traditional user research (which wasn&rsquo;t feasible given project constraints), I drew upon:</p>
 <ul>
 <li>Industry best practices for executive dashboard design</li>
-<li>Modern VOD interface patterns from leading streaming platforms</li>
+<li>Modern interface patterns from leading streaming platforms</li>
 <li>Enterprise calendar system design principles</li>
 <li>Established information architecture patterns for complex data systems</li>
 </ul>
