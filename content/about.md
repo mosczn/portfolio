@@ -10,10 +10,14 @@ draft: false
 
 ![](/moshe.jpg "")
 
-Hi, I’m Moshe, a Senior UX/UI Designer with over 8 years of experience crafting intuitive and user-friendly digital products. My work spans a variety of industries, including cybersecurity and real estate, where I’ve researched, planned, and designed complex systems, applications, and websites.
+Hi, my name is Moshe and I'm a Senior Product Designer specializing in user-centered, end-to-end design for complex B2B platforms.
 
-Beyond my professional life, I enjoy playing the guitar, exploring creative hobbies, and staying up-to-date with the latest design trends to deliver modern and impactful solutions.
+With over 8 years of experience, I’ve led UX/UI design across web and mobile products in industries like cybersecurity, healthcare, education, logistics, and real estate. I work closely with product managers and developers to translate real user needs into intuitive, scalable solutions - from research and wireframes to high-fidelity UI and handoff. I also build and maintain design systems in Figma to ensure consistency and speed at scale.
 
-Feel free to explore my portfolio and reach out I'd love to connect!
+Whether I’m simplifying messy workflows, improving data-heavy dashboards, or designing cross-platform flows, I approach every project with a balance of clarity, empathy, and strategy.
 
-Feel free to check out [My Resume](/moshe_cezana.pdf)
+Outside of work, you’ll find me playing guitar, experimenting with creative projects, and staying curious about new tools and trends in the design world.
+
+{{< lead >}}
+👋 Feel free to check out [my resume](/moshe_cezana.pdf) or get in [touch](mailto:mos.czn@gmail.com) <br>I’d love to connect.
+{{< /lead >}}
