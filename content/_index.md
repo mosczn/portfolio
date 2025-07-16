@@ -1,7 +1,7 @@
-<p class="fancy">Hi! I'm Moshe,</p>
+<p class="fancy">Hi, I'm Moshe,</p>
 <br>
-<p class="lessfancy">Senior UX/UI Product Designer</p>
+<p class="lessfancy">UX/UI Designer</p>
 
 <p class="intro">
-I help teams build better products by designing clear, usable interfaces and systems. From idea to handoff, I create design that works, for users and for the business.
+I design clear, intuitive interfaces and systems that help teams build better products. From first sketch to final handoff, I make sure things work - for users and for the business.
 </p>
