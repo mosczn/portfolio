@@ -1,4 +1,4 @@
-<p class="fancy">Hi, I'm Moshe,</p>
+<p class="fancy">Hi! I'm Moshe,</p>
 <br>
 <p class="lessfancy">UX/UI Designer</p>
 

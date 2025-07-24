@@ -44,7 +44,7 @@ font-family; 'Open Sans';}
     }
 
     .fancy { 
-        font-family: Playfair;
+        font-family: Gabarito;
         font-weight: 600;
         margin-top: 8rem;
         font-size: 4rem;
@@ -53,7 +53,7 @@ font-family; 'Open Sans';}
     }
 
     .lessfancy { 
-        font-family: Playfair;
+        font-family: Gabarito;
         font-weight: 400;
         margin-bottom: 2rem;
         font-size: 3.5rem;
