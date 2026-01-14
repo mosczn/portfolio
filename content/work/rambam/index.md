@@ -1,105 +1,162 @@
 ---
 title: "Rambam Advanced Training in Nursing"
-summary: "Modernizing the administration of nursing studies through a dynamic LMS platform, ensuring seamless communication channels throughout all processes of students' admission."
+summary: "A Learning Management System designed to replace paper-based administration with clear, digital workflows for managing nursing studies."
 categories: ["","",]
 tags: ["","",""]
 #externalUrl: ""
 #showSummary: true
-date: 2025-01-02
+date: 2025-01-01
 draft: false
 ---
 
-# Nursing Studies Management Platform
-
-{{< lead >}}
-My goal was to modernize the administration of nursing studies by transitioning from traditional paper-based processes to a dynamic Learning Management System (LMS) platform. This project involved research, design, prototyping, and iterative development to create a more efficient and accessible educational ecosystem.
-{{< /lead >}}
+# Simplifying Nursing Studies Administration
 
 
-| Date   | Client     | Role   |
-| --------- | -------- | ------ |
-| 2023 | Rambam Medical Center | UX/UI Design |
+| Date | Client | Role |
+|------|--------|------|
+| 2023 | Rambam Medical Center | UX/UI Designer |
 
+<br/>
 
-![](/pic1.png "Students and Candidates")
+![](/pic1.png "Students and candidates")
 
-### **The Challenge**  
-The existing system at the educational institution relied heavily on offline methods, with documents stored in binders and communication primarily conducted via phone calls. These outdated processes created inefficiencies in managing students, classes, and lecturers. During the research phase, extensive meetings with school staff revealed key challenges, such as time-consuming workflows, error-prone methods, and a lack of functionality for effective student and class management. There was a clear need for a modern, digital solution to enhance communication, streamline administrative tasks, and improve overall efficiency.  
+---
 
-<br></br>
+## The Challenge
 
-### **My Role**  
-As the lead UX/UI designer, I was responsible for the entire design process, from understanding user needs to delivering a fully functional and intuitive Learning Management System (LMS). My role included conducting initial research, designing prototypes, and iterating based on feedback to ensure the final product addressed all user pain points.  
+The existing administrative process relied heavily on offline tools.  
+Student records were kept in physical binders, updates were handled over the phone, and information was often duplicated or lost between departments.
 
-<br></br>
+During research sessions with school staff, several issues kept repeating:
 
-### **The Process**  
+- Managing students and classes took more time than necessary
+- Manual documentation increased the risk of mistakes
+- Staff had no clear, real-time overview of students, courses, or lecturers
+- Communication between departments depended on memory rather than systems
 
-#### **Research and Analysis**  
-The project began with thorough research to understand the institution's existing workflows and pain points. This involved shadowing staff, analyzing their workspace, and reviewing the documents they relied on daily. The insights gained from this phase emphasized the urgent need for a streamlined, digital-first solution.  
+The need wasn’t for “more features”, it was for **clarity and reliability**.
 
-<ins>Pain Points</ins>
-{{< mermaid >}}
-graph TB;
-        A[Time-Consuming Offline Methods]
-        B[Prone to Errors in Documentation]
-        C[Lack of Functionality for Student Management]
+---
 
-    %% Styling for Sticky Notes
-    style A fill:#f9f871,stroke:#333,stroke-width:1
-    style B fill:#f9f871,stroke:#333,stroke-width:1
-    style C fill:#f9f871,stroke:#333,stroke-width:1
-{{< /mermaid >}}
+## My Role
 
-{{< mermaid >}}
-graph TB;
-        D[Communication Inefficiencies]
-        E[Difficulty Accessing Real-Time Data]
-        F[Fragmented Processes and Workflows]
+I led the UX/UI design process end to end.
 
-    style D fill:#f9f871,stroke:#333,stroke-width:1
-    style E fill:#f9f871,stroke:#333,stroke-width:1
-    style F fill:#f9f871,stroke:#333,stroke-width:1
-{{< /mermaid >}}
+That included:
+- Researching existing workflows and constraints
+- Translating offline processes into digital flows
+- Designing and prototyping the LMS experience
+- Iterating based on continuous feedback from staff
 
+The focus throughout the project was usability and adoption, not novelty.
 
+---
 
-#### **Conceptualization**  
-The initial concept for the LMS focused on simplifying administrative tasks while improving communication and providing real-time data insights. The design aimed to seamlessly integrate features for managing students, classes, and lecturers into a unified platform.  
+## The Process
 
-#### **Wireframing and Prototyping**  
-Using Axure, I developed interactive prototypes that brought the LMS vision to life. These prototypes were built on the system's existing design language to ensure familiarity and ease of adoption. Each prototype served as a valuable tool for exploring user interactions and refining the user experience through iterative feedback.  
+### Research & Understanding the Reality
+
+I spent time observing how the system actually worked day to day, not how it was described on paper.
+
+This included:
+- Sitting with staff while they handled student records
+- Reviewing physical documents and forms
+- Mapping how information moved between people and departments
+
+The research made one thing very clear:  
+**the system needed to reduce friction, not introduce new rules.**
+
+#### Main Pain Points
+- Time-consuming manual workflows  
+- High risk of documentation errors  
+- Fragmented communication  
+- No single source of truth  
+
+---
+
+### Concept & Direction
+
+The core idea was to create a single platform that:
+- Centralizes student, class, and lecturer data
+- Supports daily administrative work without training overhead
+- Reflects existing mental models instead of fighting them
+
+The LMS wasn’t meant to feel “innovative”, it was meant to feel obvious.
+
+---
+
+### Wireframing & Prototyping
+
+Using Axure, I created interactive prototypes based on the institution’s existing design language.  
+This helped staff focus on workflows and functionality rather than visual novelty.
+
+The prototypes were used as discussion tools:
+- to validate assumptions
+- to surface missing scenarios
+- to refine flows before visual design
 
 {{< carousel images="g1/*" >}}
-_The screens display the wireframe for managing a student's details, documents, and educational courses._
+_Examples of wireframes for managing student details, documents, and courses._
 
-![](/pic6.png "I created a wizard to guide new students through the process of joining a nursing program.")
+![](/pic6.png "A guided wizard designed to help new students complete the admission process step by step.")
 
-#### **Design Iterations**  
-The design underwent several iterations based on user testing and feedback. Each iteration focused on enhancing usability, improving search relevance, and increasing user engagement. The iterative approach ensured that the final design was intuitive and catered to the specific needs of the institution’s staff and students.  
+---
 
-<br></br>
+### Iteration & Refinement
 
-### **The Solution**  
-The final design featured a cutting-edge LMS platform tailored to the institution's requirements. It provided real-time data insights, efficient course and student management tools, and seamless communication channels. By combining user-centered design with robust technological solutions, the system replaced outdated processes with a modernized and cohesive digital platform.
+Design iterations were driven by real usage feedback.
+
+Improvements focused on:
+- Making actions easier to find
+- Reducing steps in common tasks
+- Improving clarity around student status and documentation
+- Adding notifications where silence caused confusion
+
+Each iteration aimed to remove friction rather than add functionality.
+
+---
+
+## The Solution
+
+The final result was a centralized Learning Management System tailored to Rambam’s operational needs.
+
+The system supports:
+- Student profiles and documentation
+- Course and module planning
+- Communication between staff and students
+- Lecturer scheduling and payroll coordination
+
+All key information lives in one place and is accessible when needed.
 
 ![](/pic2.png "Managing an individual student's profile.")
 ![](/pic3.png "Planning modules for an educational program.")
-![](/pic4.png "During the iteration process, I identified the need to create and send notifications to the students.")
-![](/pic5.png "Facilitating the payroll department in planning tutors' schedules for the month or updating their monthly hours for payment.")
+![](/pic4.png "Creating and sending notifications to students.")
+![](/pic5.png "Supporting payroll planning through lecturer scheduling and hour tracking.")
 
+---
 
-<br></br>
+## The Result
 
-### **The Result**  
-The introduction of the LMS transformed the institution’s administrative processes. Operations became significantly more streamlined, with faster and more reliable workflows. Communication among students, staff, and lecturers improved dramatically, and user satisfaction reached new heights. The transition from paper-based processes to a digital-first approach set a new standard for efficiency and accessibility in the institution's ecosystem.  
+After introducing the LMS:
 
-<br></br>
+- Administrative workflows became faster and more reliable
+- Communication between departments improved significantly
+- Staff spent less time searching for information
+- Errors caused by manual handling were reduced
 
-### **Reflection**  
-This project demonstrated the transformative power of user-centered design in education. By prioritizing the needs of the institution's staff and students, I delivered a solution that not only resolved immediate challenges but also positioned the institution for long-term success. The iterative process and collaboration with users were key factors in achieving a final product that was both effective and impactful.  
+Most importantly, the system replaced uncertainty with structure.
 
+---
 
-<br></br>
+## Reflection
 
-*Interested in tackling complex challenges together? [Let’s connect.](mailto:mos.czn@gmail.com)*  
+This project reinforced how impactful good UX can be in environments that are not traditionally digital-first.
+
+By respecting existing workflows and focusing on clarity, the system became something staff could rely on and not another tool they had to adapt to.
+
+If I were to continue this project, I would focus on long-term usage patterns and further simplify high-frequency tasks based on real usage data.
+
+---
+
+*If you’re interested in designing systems that support real-world complexity,*  
+**[let’s connect.](mailto:mos.czn@gmail.com)**
