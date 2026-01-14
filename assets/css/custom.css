@@ -142,10 +142,10 @@ body * {
     }
 
     .text-xl {
-        font-size: 1.8rem;
+        font-size: 1.25rem;
         font-family: 'gabarito';
-        line-height: 3rem;
-        /* font-weight: 200; */
+        line-height: 2rem;
+        font-weight: 200;
     }
 
     .font-bold {
@@ -154,7 +154,7 @@ body * {
 
     .border-2 {
         border-width: 0px;
-        background-color: #f1f3fc;
+        background-color: #f6f6f6;
     }
     
 .single_hero_round {
