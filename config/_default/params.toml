@@ -8,7 +8,7 @@
 colorScheme = "noir"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-disableImageOptimization = false
+disableImageOptimizationMD = true
 
 enableSearch = false
 enableCodeCopy = true
