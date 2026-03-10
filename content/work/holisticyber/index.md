@@ -1,126 +1,82 @@
 ---
-title: "HolistiCyber"
-summary: "A cybersecurity planning platform designed to help CISOs make sense of complex threat data and turn it into clear, actionable defense plans."
-date: 2025-12-12
+title: "SAGE: Designing Decision Confidence"
+summary: "A strategic decision-support platform for CISOs, turning complex cyber data into a safe, simulation-based environment for multi-million dollar planning."
+date: 2026-03-10
 draft: false
 ---
 
-# Making Cyber Defense Easier to Reason About
+# Designing Decision Confidence in Cyber Defense
 
 {{< lead >}}
-This project came out of working closely with cybersecurity professionals and trying to understand what actually slows them down in day-to-day decision making.  
-The goal wasn’t to add more data, it was to make existing information easier to see, search, and act on.
+[cite_start]SAGE is a decision-support platform for CISOs managing multi-million dollar security programs. [cite: 5] [cite_start]The real challenge wasn't a lack of data; it was decision anxiety under uncertainty. [cite: 8, 11]
 {{< /lead >}}
 
 | Date       | Client        | Role        |
 |------------|---------------|-------------|
-| 2023–2024  | HolistiCyber  | UX/UI Designer |
+| 2023–2024  | HolistiCyber  | Lead Product Designer |
 
 <br/>
 
 ---
 
-## The Challenge
+## The Challenge: Impact Blindness
 
-During early conversations with CISOs and security stakeholders, a few recurring frustrations kept coming up.
+[cite_start]During research with CISOs and security stakeholders, I identified a critical friction point: **The fear of committing to visible protection changes without clear impact validation**. [cite: 21, 26]
 
-- Tasks were hard to find because naming conventions weren’t consistent.
-- Important system updates were easy to miss, buried across different views.
-- Budgeting for security initiatives often relied on rough estimates rather than clear calculations.
-
-None of these issues were dramatic on their own, but together they created friction, uncertainty, and slower decision-making in moments where clarity really matters.
-
----
-
-## My Role
-
-I worked closely with cybersecurity professionals throughout the project, from early discovery through design iterations.
-
-My role focused on:
-- Understanding how security leaders think and work under pressure
-- Translating complex workflows into interfaces that feel manageable
-- Designing and refining features based on real operational needs
-
-I was responsible for UX and UI design across the product.
+Security leaders were struggling with:
+- [cite_start]**Fragmented Data:** Risk data scattered across tools, budgets in Excel, and projects in PowerPoint. [cite: 15, 16]
+- [cite_start]**Decision Anxiety:** A visible hesitation to make changes that might negatively affect the overall risk score. [cite: 17, 24]
+- [cite_start]**The Justification Gap:** An inability to confidently justify trade-offs and budget initiatives to executive leadership. [cite: 18, 64]
 
 ---
 
-## The Process
+## The Solution: A Unified Decision Surface
 
-### Research
+[cite_start]The final result was a cybersecurity planning platform centered around clarity, connecting budget, mitigation plans, and risk posture in one view. [cite: 69, 71]
 
-I started by listening.
-
-Through interviews and workflow reviews with CISOs and stakeholders, I tried to understand:
-- How they currently track tasks and system activity
-- Where information gets lost or overlooked
-- What makes budgeting conversations difficult or unclear
-
-One thing became very clear:  
-they weren’t asking for more features they were asking for less confusion.
 
 ---
 
-### Prototyping & Iteration
+## The Core Principle: Separate Exploration from Commitment
 
-Based on these insights, I explored several ideas and iterated closely with feedback from users.
+[cite_start]The breakthrough in the project was realizing that **strategic planning requires a safe exploration layer**. [cite: 67, 100]
 
-#### Side Updates Panel
-I designed a side panel that surfaces important system updates without interrupting the main workflow.  
-The intention was simple: let users stay aware of what’s happening without constantly switching context.
+### From Operational Editing to Strategic Simulation
+[cite_start]In the initial phase, all changes updated the live plan immediately, causing users to avoid high-impact changes out of fear. [cite: 90, 91]
 
-![](/pic2.svg "Side Updates Panel showing real-time system changes")
+**The Solution: The SAGE CDP Simulator**
+[cite_start]I designed an isolated sandbox that allows leaders to explore budget changes safely. [cite: 107, 108]
+- [cite_start]**Isolated Sandbox:** A "What-if" environment where users can toggle initiatives without affecting live data. [cite: 9, 111]
+- [cite_start]**Explicit Commit Step:** Changes only move to execution after a conscious "Confirm adjustment" action, providing psychological safety. [cite: 109, 354, 356]
 
-#### Intelligent Search (ChatGPT-powered)
-Because task naming was inconsistent, traditional search wasn’t reliable.  
-The search experience was designed to focus on user intent, allowing people to find what they need even when terminology varies.
+![SAGE Budget Simulator](/Sage_Sim.svg "The Strategic Simulation environment allowing CISOs to model budget impact on risk scores safely")
 
-![](/pic3.svg "Intent-based search interpreting user queries beyond exact task naming")
-
-
-#### Cybersecurity Expense Calculator
-To support planning and budgeting, I designed an expense calculator that helps estimate the cost of different security initiatives.  
-This gave CISOs a clearer way to reason about trade-offs before committing resources.
-
-Each feature went through multiple iterations to make sure it solved a real problem and didn’t add unnecessary complexity.
+### Optimization & Efficiency
+[cite_start]To bridge the executive justification gap, I designed an **Optimization Graph**. [cite: 321] [cite_start]It visualizes the direct correlation between budget allocation and risk reduction, introducing metrics like **"Cost per Risk Point"** to make security ROI tangible. [cite: 291, 332]
 
 ---
 
-## The Solution
+## The Visual System: Functional Color Logic
 
-The final result was a cybersecurity planning platform centered around clarity.
-
-- Real-time visibility into system activity
-- Search that works even when data isn’t perfectly structured
-- Budget insights that support more confident decisions
-
-Everything was designed with the assumption that users are experienced professionals who don’t want to fight the interface to get answers.
+Moving away from generic aesthetics, I implemented a color system (Green/Yellow/Red) where color serves as immediate information.
+- [cite_start]**Immediate Severity:** Users can identify critical risks and "Impact Blindness" zones at a glance without reading text. [cite: 168, 174]
+- [cite_start]**Cognitive Load Reduction:** By utilizing standard status colors, I reduced the mental processing required to evaluate complex data. [cite: 357, 358]
 
 ---
 
 ## The Result
 
-Feedback from CISOs and stakeholders showed clear improvements:
-
-- Better awareness of ongoing system activity
-- Less time spent searching for tasks
-- More confidence when discussing costs and priorities
-- An interface that felt easier to work with under pressure
-
-The product helped teams focus more on decision-making and less on navigating the tool itself.
+The shift from a dashboard to a **decision environment** led to:
+- [cite_start]**Increased Confidence:** CISOs could finally justify budget trade-offs using projected risk scores. [cite: 295, 353]
+- [cite_start]**Faster Decision Cycles:** Plan comparisons that previously took days across spreadsheets were now instant. [cite: 66, 70]
+- [cite_start]**Psychological Safety:** Users felt empowered to explore aggressive risk-reduction strategies within the simulator. [cite: 356, 358]
 
 ---
 
 ## Reflection
 
-This project reinforced something I strongly believe in:  
-good UX isn’t about simplifying reality it’s about helping people think more clearly within it.
-
-Working on HolistiCyber pushed me to design for complexity without overwhelming the user, and to respect the mental load that cybersecurity leaders already carry.
-
-With more time, I would continue validating the system through usability testing during real incident-response scenarios and further refine information prioritization.
+[cite_start]This project reinforced a key learning: **Cyber platforms are not just dashboards; they are decision environments**. [cite: 358] [cite_start]Good UX in high-stakes systems isn't about simplifying the data—it's about providing the psychological safety and clarity needed to act on it. [cite: 356, 357]
 
 ---
 
-*If you’re interested in working together on complex, high-stakes systems*  
-**[let’s connect.](mailto:mos.czn@gmail.com)**
+*Interested in discussing complex, high-stakes design?* **[Let’s connect.](mailto:mos.czn@gmail.com)**
