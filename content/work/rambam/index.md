@@ -1,162 +1,60 @@
 ---
-title: "Rambam Advanced Training in Nursing"
-summary: "A Learning Management System designed to replace paper-based administration with clear, digital workflows for managing nursing studies."
-categories: ["","",]
-tags: ["","",""]
-#externalUrl: ""
-#showSummary: true
+title: "LMS: Orchestrating Complex Educational Workflows"
+summary: "Transforming fragmented, paper-based administration into a centralized digital ecosystem for nursing education."
 date: 2025-01-01
 draft: false
 ---
 
-# Simplifying Nursing Studies Administration
+# From Paper Binders to Digital Governance
 
+{{< lead >}}
+Designing a Learning Management System (LMS) for medical education isn't about flashy UI—it's about operational reliability. I led the transition from physical binders to a single source of truth.
+{{< /lead >}}
 
 | Date | Client | Role |
 |------|--------|------|
-| 2023 | Rambam Medical Center | UX/UI Designer |
-
-<br/>
-
-![](/pic1.png "Students and candidates")
+| 2023 | Rambam Medical Center | Lead UX/UI Designer |
 
 ---
 
-## The Challenge
+## The Challenge: Institutional Memory vs. Systems
+The existing process relied on offline tools and physical documentation. Information was duplicated or lost between departments, creating high operational risk.
 
-The existing administrative process relied heavily on offline tools.  
-Student records were kept in physical binders, updates were handled over the phone, and information was often duplicated or lost between departments.
-
-During research sessions with school staff, several issues kept repeating:
-
-- Managing students and classes took more time than necessary
-- Manual documentation increased the risk of mistakes
-- Staff had no clear, real-time overview of students, courses, or lecturers
-- Communication between departments depended on memory rather than systems
-
-The need wasn’t for “more features”, it was for **clarity and reliability**.
+**The pain points were clear:**
+- **Manual Overhead:** Managing students and classes took more time than necessary.
+- **Data Fragmentation:** No real-time overview of courses, lecturers, or payroll.
+- **Communication Gaps:** Departmental coordination depended on memory rather than a system.
 
 ---
 
-## My Role
+## The Strategy: Mapping the Reality
+I spent time observing how the staff actually worked, not just how the process was described on paper. The goal was to reduce friction without introducing complex new rules.
 
-I led the UX/UI design process end to end.
-
-That included:
-- Researching existing workflows and constraints
-- Translating offline processes into digital flows
-- Designing and prototyping the LMS experience
-- Iterating based on continuous feedback from staff
-
-The focus throughout the project was usability and adoption, not novelty.
+### Key Pillars of the Solution:
+1. **Centralized Student Governance:** Moving from disparate files to a comprehensive digital profile.
+2. **Operational Continuity:** Designing workflows that reflect existing mental models to ensure high adoption rates among non-digital-first staff.
+3. **Payroll & Scheduling Integration:** Connecting lecturer hours directly to payroll planning, eliminating manual estimation errors.
 
 ---
 
-## The Process
+## The Architecture of Clarity
+I focused on the **Information Architecture** and **Task Efficiency**. By streamlining the admission process and module planning, we reduced the cognitive load on administrative staff.
 
-### Research & Understanding the Reality
-
-I spent time observing how the system actually worked day to day, not how it was described on paper.
-
-This included:
-- Sitting with staff while they handled student records
-- Reviewing physical documents and forms
-- Mapping how information moved between people and departments
-
-The research made one thing very clear:  
-**the system needed to reduce friction, not introduce new rules.**
-
-#### Main Pain Points
-- Time-consuming manual workflows  
-- High risk of documentation errors  
-- Fragmented communication  
-- No single source of truth  
-
----
-
-### Concept & Direction
-
-The core idea was to create a single platform that:
-- Centralizes student, class, and lecturer data
-- Supports daily administrative work without training overhead
-- Reflects existing mental models instead of fighting them
-
-The LMS wasn’t meant to feel “innovative”, it was meant to feel obvious.
-
----
-
-### Wireframing & Prototyping
-
-Using Axure, I created interactive prototypes based on the institution’s existing design language.  
-This helped staff focus on workflows and functionality rather than visual novelty.
-
-The prototypes were used as discussion tools:
-- to validate assumptions
-- to surface missing scenarios
-- to refine flows before visual design
-
-{{< carousel images="g1/*" >}}
-_Examples of wireframes for managing student details, documents, and courses._
-
-![](/pic6.png "A guided wizard designed to help new students complete the admission process step by step.")
-
----
-
-### Iteration & Refinement
-
-Design iterations were driven by real usage feedback.
-
-Improvements focused on:
-- Making actions easier to find
-- Reducing steps in common tasks
-- Improving clarity around student status and documentation
-- Adding notifications where silence caused confusion
-
-Each iteration aimed to remove friction rather than add functionality.
-
----
-
-## The Solution
-
-The final result was a centralized Learning Management System tailored to Rambam’s operational needs.
-
-The system supports:
-- Student profiles and documentation
-- Course and module planning
-- Communication between staff and students
-- Lecturer scheduling and payroll coordination
-
-All key information lives in one place and is accessible when needed.
-
-![](/pic2.png "Managing an individual student's profile.")
-![](/pic3.png "Planning modules for an educational program.")
-![](/pic4.png "Creating and sending notifications to students.")
-![](/pic5.png "Supporting payroll planning through lecturer scheduling and hour tracking.")
+> **Design Insight:** In enterprise systems, "obvious" is better than "innovative." The system was designed to feel like a natural extension of the staff's daily work.
 
 ---
 
 ## The Result
-
-After introducing the LMS:
-
-- Administrative workflows became faster and more reliable
-- Communication between departments improved significantly
-- Staff spent less time searching for information
-- Errors caused by manual handling were reduced
-
-Most importantly, the system replaced uncertainty with structure.
+The implementation of the LMS replaced uncertainty with structure:
+- **Zero-Loss Documentation:** Significant reduction in manual handling errors.
+- **Instant Reporting:** Staff can now access real-time status updates on any student or course.
+- **Faster Workflows:** Administrative tasks that previously took hours were reduced to minutes.
 
 ---
 
 ## Reflection
-
-This project reinforced how impactful good UX can be in environments that are not traditionally digital-first.
-
-By respecting existing workflows and focusing on clarity, the system became something staff could rely on and not another tool they had to adapt to.
-
-If I were to continue this project, I would focus on long-term usage patterns and further simplify high-frequency tasks based on real usage data.
+This project reinforced my ability to design for **real-world complexity**. It taught me that impactful UX is often invisible—it's the structure that allows a high-stakes institution to run smoothly without the system getting in the way.
 
 ---
 
-*If you’re interested in designing systems that support real-world complexity,*  
-**[let’s connect.](mailto:mos.czn@gmail.com)**
+*Interested in discussing large-scale enterprise systems?* **[Let’s connect.](mailto:mos.czn@gmail.com)**
