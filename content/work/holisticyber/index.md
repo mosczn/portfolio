@@ -1,79 +1,54 @@
 ---
 title: "SAGE: Designing Decision Confidence"
-summary: "A strategic decision-support platform for CISOs, turning complex cyber data into a safe, simulation-based environment for multi-million dollar planning."
+summary: "A strategic simulator for CISOs, turning complex cyber data into clear, multi-million dollar budget plans."
 date: 2026-03-10
 draft: false
 ---
 
-# Designing Decision Confidence in Cyber Defense
+# Designing Decision Confidence
 
 {{< lead >}}
-SAGE is a decision-support platform for CISOs managing multi-million dollar security programs. The real challenge wasn't a lack of data; it was decision anxiety under uncertainty.
+SAGE is a decision-support platform for CISOs. I transformed a reactive data-heavy dashboard into a safe, simulation-based planning environment.
 {{< /lead >}}
 
-| Date       | Client        | Role        |
-|------------|---------------|-------------|
-| 2023–2024  | HolistiCyber  | Product Designer |
-
-<br/>
+| Date       | Role                  | Impact                          |
+|------------|-----------------------|---------------------------------|
+| 2023–2025  | Product Designer | From "Data Chaos" to Strategic ROI |
 
 ---
 
-## The Challenge: Impact Blindness
-
-In high-stakes cybersecurity, the sheer volume of data often leads to paralysis. My research with CISOs and security stakeholders revealed a recurring friction point: a visible hesitation to commit to protection changes without clear impact validation.
-
-Security leaders were struggling with:
-- **Fragmented Data:** Risk data scattered across tools, budgets in Excel, and projects in PowerPoint.
-- **Decision Anxiety:** A fear that manual adjustments might negatively affect the overall risk posture in unforeseen ways.
-- **The Justification Gap:** An inability to confidently explain trade-offs and budget initiatives to executive leadership.
+## The Problem: Decision Anxiety
+Research with CISOs revealed that the real friction wasn’t a lack of data, but **Impact Blindness**. They were afraid to commit to budget changes without seeing how it affects their overall risk score in real-time.
 
 ---
 
 ## The Solution: A Unified Decision Surface
+I created a high-level "Cyber Directory" using **functional color logic**. 
+Red/Yellow/Green aren't just colors here—they are immediate indicators of severity, allowing leaders to prioritize threats in seconds.
 
-I designed a platform centered around clarity—connecting budget, mitigation plans, and risk posture into a single, cohesive view.
+![SAGE Cyber Directory Dashboard](/cover.svg)
 
 ---
 
-## The Core Principle: Separate Exploration from Commitment
+## The Innovation: Strategic Simulation
+I introduced a **"What-if" Sandbox** to separate exploration from commitment.
 
-The strategic breakthrough of the project was the realization that planning requires a safe exploration layer. 
-
-### From Operational Editing to Strategic Simulation
-Initially, any change to a security plan updated the live data immediately. This created a "fear of breaking things." To solve this, I designed the **SAGE CDP Simulator**—an isolated sandbox for "What-if" modeling.
-
-- **The Sandbox:** Leaders can toggle security initiatives, adjust budgets, and see projected risk scores without affecting live operations.
-- **Psychological Safety:** By introducing an explicit "Confirm adjustment" step, the interface allows for aggressive experimentation before any real-world commitment is made.
+- **Safe Exploration:** Toggling initiatives without affecting live data.
+- **Projected Risk:** Real-time visualization of how budget affects security.
+- **Psychological Safety:** An explicit "Confirm" step that removes the fear of "breaking" active plans.
 
 ![SAGE Budget Simulator](/Sage_Sim.svg)
-
-### Optimization & Efficiency
-To bridge the executive justification gap, I introduced an **Optimization Graph**. This visualization maps the direct correlation between budget allocation and risk reduction, making security ROI tangible through metrics like "Cost per Risk Point."
-
----
-
-## The Visual System: Functional Color Logic
-
-Design is information. Moving away from generic "high-tech" aesthetics, I prioritized immediate awareness:
-- **Immediate Severity:** Red indicates critical exposure, allowing users to prioritize at a glance.
-- **Cognitive Load Reduction:** Using a semantic color system reduces the mental effort required to evaluate complex directories, letting the CISO focus on the decision, not the interface.
 
 ---
 
 ## The Result
-
-By shifting the focus from a traditional dashboard to a **decision environment**, the product achieved:
-- **Increased Confidence:** CISOs can now justify multi-million dollar budget trade-offs using data-backed risk projections.
-- **Faster Decision Cycles:** Comparisons that previously took days across multiple spreadsheets are now instant and visual.
-- **Empowered Strategy:** Users feel safe to explore "best-case" and "worst-case" scenarios, leading to more robust security programs.
+- **Executive Clarity:** Using the "Optimization Graph" to show "Cost per Risk Point."
+- **Efficiency:** Instant plan comparisons instead of days spent on spreadsheets.
+- **Strategic Impact:** Shifting the CISO's role from "Technical Manager" to "Business Partner."
 
 ---
 
-## Reflection
+### Reflection
+Cyber platforms aren't just dashboards—they are **decision environments**. My goal was to provide the clarity and safety needed to act under pressure.
 
-This project reinforced my belief that complex UX isn't about simplifying reality—it's about providing the clarity and safety needed to navigate it. In high-stakes environments, the most valuable thing a designer can provide is the confidence to act.
-
----
-
-*Interested in discussing complex, high-stakes design?* **[Let’s connect.](mailto:mos.czn@gmail.com)**
+**[Let’s talk about complex systems →](mailto:mos.czn@gmail.com)**
