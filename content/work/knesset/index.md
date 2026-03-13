@@ -1,7 +1,7 @@
 ---
 title: "The Knesset Executive Dashboard"
 summary: "Consolidating fragmented governance workflows into a unified command center for the CEO and operational staff."
-date: 2023-01-01
+date: 2025-01-01
 draft: false
 ---
 
